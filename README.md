@@ -106,5 +106,4 @@ The train.txt and test.txt files hold the relative paths to all our training ima
 ## 8. Model Evaluation using Mean Average Precision
 
 ## 9. Predictions on images
-
-## 10. Predictions on video
+  We can find prediected images in predictions directory
