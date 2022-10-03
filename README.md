@@ -107,3 +107,6 @@ The train.txt and test.txt files hold the relative paths to all our training ima
 
 ## 9. Predictions on images
   We can find prediected images in predictions directory
+  
+# Note 
+I have not uploaded weight files and some images due to its heavy memory size
