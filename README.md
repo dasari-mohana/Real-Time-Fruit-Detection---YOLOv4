@@ -99,9 +99,9 @@ d. train.txt and test.txt file
 
 The train.txt and test.txt files hold the relative paths to all our training images and validation images.
 
-## 6. Train Your Custom Object Detector
+## 6. Training Custom Object Detector
 
-## 7. Training Yolo model from a checkpoint
+## 7. Training YOLO model from a checkpoint
 
 ## 8. Model Evaluation using Mean Average Precision
 
